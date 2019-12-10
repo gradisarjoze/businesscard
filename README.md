@@ -1,7 +1,5 @@
-It's me, Max!
-
-# Usage
+Hola!
 
 ```
-npx mxstbr
+npx gradisarjoze
 ```
