@@ -1,5 +1,5 @@
 Hola!
 
 ```
-npx gradisarjoze
+$ npx gradisarjoze
 ```
