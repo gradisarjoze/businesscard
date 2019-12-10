@@ -1,20 +1,20 @@
 {
-  "name": "mxstbr",
+  "name": "gradisarjoze",
   "version": "1.0.1",
-  "description": "Max Stoiber (@mxstbr)'s business card",
+  "description": "Joze Gradisar's business card",
   "main": "index.js",
   "bin": {
     "mxstbr": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mxstbr/businesscard.git"
+    "url": "https://github.com/gradisarjoze/businesscard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Max Stoiber",
+  "author": "Joze Gradisar",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
