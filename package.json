@@ -1,6 +1,6 @@
 {
   "name": "gradisarjoze",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Joze Gradisar's business card",
   "main": "index.js",
   "bin": {
